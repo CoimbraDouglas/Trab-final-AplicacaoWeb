@@ -2,6 +2,10 @@
 
 Este projeto consiste em uma aplicação web e mobile integrada para cadastro e gerenciamento de alunos, utilizando tecnologias modernas como React, Vite, Material UI, Axios e Expo.
 
+Aplicativo foi disponivel no link ✔ alunosApp: https://expo.dev/accounts/coimbradouglas/projects/alunosApp on EAS
+
+✔ Linked local project to EAS project 7d411cb8-6fae-4f19-bdc3-0b96cb0083b7
+
 ---
 
 ## ⚙️ 1. Configuração do Ambiente
@@ -74,3 +78,8 @@ Expo (React Native)
 Context API
 Vercel
 
+✅Fazendo atualizações via Terminal no git
+git status
+git add .
+git commit -m "Adicionando nova versão do projeto mobile"
+git push origin main
